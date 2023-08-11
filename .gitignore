@@ -1,0 +1,12 @@
+# Unity 临时文件
+Temp/
+
+# Unity 库文件
+Library/
+
+# 日志文件
+*.log
+
+# 编译构建输出目录
+Build/
+
